@@ -21,4 +21,5 @@ save.addEventListener("click", function () {
 const del = document.getElementById("Delete");
 del.addEventListener("click", function () {
   nameuser.removeChild(nameuser.lastChild);
+  localStorage.clear();
 });
