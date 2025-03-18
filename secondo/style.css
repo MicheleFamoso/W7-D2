@@ -11,13 +11,22 @@ main {
   width: 650px;
   position: relative;
   margin: 0 auto;
+  filter: drop-shadow(10px 10px 6px rgba(0, 0, 0, 0.5));
 }
-
+p {
+  font-size: 100px;
+}
 #numbers {
   position: absolute;
   top: 90px;
   left: 250px;
   color: greenyellow;
-  font-size: 100px;
   font-family: "Bungee Shade";
+}
+
+.novenove {
+  font-size: 50px;
+
+  top: 160px !important;
+  left: 265px !important;
 }
