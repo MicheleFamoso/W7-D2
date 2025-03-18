@@ -1,0 +1,20 @@
+main {
+  text-align: center;
+}
+#Timer {
+  background-image: url(https://img.itch.zone/aW1nLzEwMDc5MDQ0LnBuZw==/347x500/FMT9hr.png);
+  background-size: cover;
+  background-position: center;
+  height: 500px;
+  width: 650px;
+  position: relative;
+  margin: 0 auto;
+}
+
+#numbers {
+  position: absolute;
+  top: 90px;
+  left: 250px;
+  color: greenyellow;
+  font-size: 100px;
+}
