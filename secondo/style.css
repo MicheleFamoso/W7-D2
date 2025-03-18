@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css2?family=Bungee+Shade&display=swap");
+
 main {
   text-align: center;
 }
@@ -17,4 +19,5 @@ main {
   left: 250px;
   color: greenyellow;
   font-size: 100px;
+  font-family: "Bungee Shade";
 }
