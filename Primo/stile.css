@@ -1,0 +1,35 @@
+body {
+  text-align: center;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  background-color: dimgrey;
+}
+h1 {
+  font-size: 4em;
+  color: whitesmoke;
+}
+h2 {
+  color: whitesmoke;
+}
+#Name {
+  height: 200px;
+}
+.salva {
+  border: none;
+  border-radius: 25px;
+}
+.salva:hover {
+  background-color: greenyellow;
+  box-shadow: greenyellow 0px 54px 55px, greenyellow 0px -12px 30px,
+    greenyellow 0px 4px 6px, greenyellow 0px 12px 13px, greenyellow 0px -3px 5px;
+}
+.elimina {
+  border: none;
+  border-radius: 25px;
+}
+.elimina:hover {
+  background-color: rgb(207, 12, 12);
+  box-shadow: rgb(207, 12, 12) 0px 54px 55px, rgb(207, 12, 12) 0px -12px 30px,
+    rgb(207, 12, 12) 0px 4px 6px, rgb(207, 12, 12) 0px 12px 13px,
+    rgb(207, 12, 12) 0px -3px 5px;
+}
